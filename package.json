@@ -1,0 +1,23 @@
+{
+  "name": "mouse-move-shadow",
+  "version": "1.0.0",
+  "description": "Text Shadow on Mouse Move Effect CSS and JS.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bikkimahato/CSS-Text-Shadow-Mouse-Move-Effect.git"
+  },
+  "author": "Bikki Mahato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bikkimahato/CSS-Text-Shadow-Mouse-Move-Effect/issues"
+  },
+  "homepage": "https://github.com/bikkimahato/CSS-Text-Shadow-Mouse-Move-Effect#readme",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
